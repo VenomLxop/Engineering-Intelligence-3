@@ -250,6 +250,10 @@ projects = get_projects()
 
 # -----------------------------------------------------------------------------
 # Sidebar
+# Handle project selection from the project cards
+if "project_jump" in st.session_state:
+    st.session_state["selected_project"] = st.session_state.pop("project_jump")
+
 with st.sidebar:
     st.markdown("### Engineering Intelligence")
     st.caption("Project evidence → risk → action")
@@ -261,7 +265,11 @@ with st.sidebar:
         st.caption("The bundled workspace remains fully usable without an external model.")
 
     st.markdown("\n")
-    selected_project = st.selectbox("Project", ["All projects"] + projects)
+    selected_project = st.selectbox(
+    "Project",
+    ["All projects"] + projects,
+    key="selected_project",
+)
 
     with st.expander("Documents", expanded=False):
         st.caption("Add PDF or TXT project records to rebuild the intelligence store.")

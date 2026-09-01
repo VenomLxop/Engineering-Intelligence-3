@@ -1,0 +1,25 @@
+SITE INSPECTION REPORT
+Project: Riverside Bridge Widening, NH-48 Segment
+Date of Inspection: 2026-09-02
+Inspected By: Er. R. Menon, Engineer-in-Charge
+
+Observations:
+
+1. Structural steel for the superstructure has not yet arrived at site as of the inspection date.
+The Contractor's site engineer confirmed the fabrication yard has completed only 60% of the
+required members. This raises concern regarding the October 15, 2026 delivery obligation under
+Section 7.2 of the Contract.
+
+2. Concrete cube testing frequency for the completed pier caps was found to be below the
+contractually required rate: only 4 sets were tested against an expected 7 sets for the volume
+poured. Non-conformance noted; Contractor directed to increase testing frequency immediately.
+
+3. Cement buffer stock at site was measured at approximately 9 days of consumption, below the
+15-day minimum required under Section 7.5.
+
+4. Safety Officer was present and weekly toolbox talk records were up to date. No safety
+non-conformances noted.
+
+5. Recommendation: Given current fabrication progress, there is a material risk that the
+structural steel delivery milestone will be missed, which would trigger the penalty clause under
+Section 7.2 and could cascade into delay of the overall Time for Completion (Section 9.4).

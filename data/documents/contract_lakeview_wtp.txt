@@ -1,0 +1,30 @@
+CONTRACT AGREEMENT
+Project: Lakeview Water Treatment Plant, Phase II
+Employer: Municipal Water Board
+Contractor: ABC Infra Ltd.
+Contract Value: INR 18,20,00,000
+Date of Signing: 2025-11-01
+
+Section 5.1 Scope of Work
+The Contractor shall design, procure, and construct the Phase II clarifier units, filtration
+gallery, and associated pumping infrastructure as per Schedule B drawings.
+
+Section 6.1 Equipment Procurement
+The Contractor shall procure and deliver the high-lift pumps to site by March 1, 2026. Delay
+beyond this date shall attract a penalty of ₹30,000 per day, capped at 4% of Contract Value.
+
+Section 6.4 Electrical Panel Supply
+The Contractor shall supply and install the MCC panels by April 10, 2026, failing which a penalty
+of ₹20,000 per day shall apply, capped at 3% of Contract Value.
+
+Section 7.1 Civil Works Completion
+The Contractor shall complete all civil works for the clarifier units by May 30, 2026. Delay
+beyond this date attracts liquidated damages of ₹1,50,000 per week.
+
+Section 7.3 Commissioning
+The Contractor shall complete commissioning and handover of Phase II by August 15, 2026, subject
+to a penalty of ₹40,000 per day for delay beyond this date, capped at 5% of Contract Value.
+
+Section 9.2 Safety Compliance Reporting
+The Contractor shall submit monthly safety compliance reports to the Employer by the 5th of each
+following month.

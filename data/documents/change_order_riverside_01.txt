@@ -1,0 +1,16 @@
+CHANGE ORDER No. RB-CO-01
+Project: Riverside Bridge Widening, NH-48 Segment
+Date Raised: 2026-08-20
+Raised By: Engineer-in-Charge
+Status: Approved
+
+Description: Revised bearing design required following updated hydraulic study showing higher
+flood-level clearance requirement than originally specified in Schedule A. Additional elastomeric
+bearings and associated RCC pedestal modifications required at Piers 3 and 4.
+
+Cost Impact: INR 68,00,000 (additional)
+Schedule Impact: 18 days added to the critical path
+
+Approval: Approved by Employer on 2026-08-28 per Section 14.2 of the Contract, as the variation
+is below the 5% Contract Value threshold requiring joint sign-off, but is documented here for
+the project record.

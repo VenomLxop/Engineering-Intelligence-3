@@ -1,0 +1,63 @@
+CONTRACT AGREEMENT
+Project: Riverside Bridge Widening, NH-48 Segment
+Employer: State Highways Development Authority
+Contractor: XYZ Construction Pvt. Ltd.
+Contract Value: INR 42,50,00,000
+Date of Signing: 2026-01-15
+
+Section 1. Definitions
+"Contractor" means XYZ Construction Pvt. Ltd. "Employer" means the State Highways Development
+Authority. "Engineer-in-Charge" means the officer appointed by the Employer to supervise the Works.
+
+Section 4.1 Scope of Work
+The Contractor shall design, procure, and construct the widening of the Riverside Bridge
+superstructure and approach roads as per the drawings and technical specifications annexed as
+Schedule A, including all structural steel, RCC works, and bearing replacement.
+
+Section 6.3 Performance Guarantee
+The Contractor shall furnish a Performance Guarantee of 5% of the Contract Value within 14 days
+of the Letter of Award, in the form of a Bank Guarantee valid for the full contract period plus
+the defect liability period.
+
+Section 7.2 Material Delivery Obligations
+The Contractor shall deliver all structural steel required for the superstructure to the project
+site by October 15, 2026. Delivery shall be accompanied by mill test certificates and shall
+conform to IS 2062 Grade E350. In the event of delay in delivery beyond the stipulated date, the
+Contractor shall be liable to a penalty of ₹50,000 per day of delay, subject to a maximum of 5%
+of the Contract Value, to be recovered from the Interim Payment Certificates.
+
+Section 7.5 Cement and Aggregate Supply
+The Contractor shall ensure continuous supply of OPC 53-grade cement and coarse aggregate meeting
+IS 383 specifications throughout the concreting phase, with a buffer stock equivalent to no less
+than 15 days of consumption maintained at site at all times.
+
+Section 8.1 Quality Assurance
+The Contractor shall conduct concrete cube testing at a frequency of not less than one set per
+50 cubic metres poured, and shall submit test results to the Engineer-in-Charge within 3 working
+days of each test.
+
+Section 9.4 Time for Completion
+The Works shall be completed within 18 months from the date of the Letter of Award, i.e. on or
+before July 20, 2027. The Contractor shall submit a detailed CPM schedule within 21 days of
+commencement and shall update it monthly.
+
+Section 10.1 Liquidated Damages for Delay in Completion
+Should the Contractor fail to complete the Works by the date specified in Section 9.4, the
+Contractor shall pay liquidated damages of ₹8,00,000 per week of delay, subject to a maximum of
+10% of the Contract Value.
+
+Section 12.3 Safety Obligations
+The Contractor shall deploy a full-time Safety Officer at site and shall conduct weekly toolbox
+talks. Any fatal accident attributable to the Contractor's negligence shall entitle the Employer
+to suspend the Works pending investigation, without extension of time being granted for the
+suspension period.
+
+Section 14.2 Change Orders
+Any variation to the scope of Works exceeding 5% of the original Contract Value shall require a
+written Change Order signed by both parties, specifying the revised cost and, where applicable,
+a revised Time for Completion.
+
+Section 16.1 Dispute Resolution
+Any dispute arising under this Contract shall first be referred to the Engineer-in-Charge for a
+decision. If unresolved within 30 days, either party may refer the matter to arbitration under
+the Arbitration and Conciliation Act, 1996.

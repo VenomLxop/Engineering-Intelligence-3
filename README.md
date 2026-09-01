@@ -9,7 +9,7 @@
 
 > **Contracts → Evidence → Risk → Impact → Action**
 
-🔗 **[Live Demo](https://engineering-intelligence-zdjtw88udrrzxcj8gv57ny.streamlit.app/)**
+🔗 **[Live Demo](https://engineering-intelligence-3-cevbcjea4cfzhsapp9yktmg.streamlit.app/)**
 
 ---
 
